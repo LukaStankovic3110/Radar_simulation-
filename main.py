@@ -60,5 +60,4 @@ CFAR.plot_threshold(L,np.abs( X_f_complex[:, N//2]), threshold_values)
 range_doppler_map = RangeDoppler(radar)
 range_doppler_map.plot_range_doppler(L, X_f_complex)
 
-print("hello world")
 
